@@ -167,8 +167,8 @@ graph TD
 
 ### Test Credentials
 ```
-Email: any@email.com
-Password: any_password
+Email: abcd@gmail.com
+Password: 12341234
 ```
 *Note: Authentication is currently implemented with dummy validation for demo purposes.*
 
@@ -225,7 +225,7 @@ Password: any_password
 **Piyush**
 - GitHub: [mr-piyushkr](https://github.com/mr-piyushkr)
 - LinkedIn: [Piyush Kumar](https://linkedin.com/in/piyushkumar06)
-- Email: your.email@example.com
+- Email: 0602.piyushkumar@gmail.com
 
 ## 🙏 Acknowledgments
 
