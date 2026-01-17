@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Food delivery icon -->
+    <group android:scaleX="0.6" android:scaleY="0.6" android:pivotX="54" android:pivotY="54">
+        <!-- Plate -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M54,35C45,35 38,42 38,51C38,60 45,67 54,67C63,67 70,60 70,51C70,42 63,35 54,35Z" />
+        
+        <!-- Food items -->
+        <path
+            android:fillColor="#FFD700"
+            android:pathData="M50,47C50,49 48,51 46,51C44,51 42,49 42,47C42,45 44,43 46,43C48,43 50,45 50,47Z" />
+        <path
+            android:fillColor="#FF4444"
+            android:pathData="M66,47C66,49 64,51 62,51C60,51 58,49 58,47C58,45 60,43 62,43C64,43 66,45 66,47Z" />
+        <path
+            android:fillColor="#44FF44"
+            android:pathData="M58,55C58,57 56,59 54,59C52,59 50,57 50,55C50,53 52,51 54,51C56,51 58,53 58,55Z" />
+        
+        <!-- Fork -->
+        <path
+            android:fillColor="#CCCCCC"
+            android:pathData="M72,45L72,65L74,65L74,45ZM74,45L74,50L75,50L75,45ZM75,45L75,50L76,50L76,45Z" />
+    </group>
+</vector>
