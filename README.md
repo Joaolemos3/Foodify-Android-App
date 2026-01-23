@@ -227,6 +227,9 @@ Password: 12341234
 - LinkedIn: [Piyush Kumar](https://linkedin.com/in/piyushkumar06)
 - Email: 0602.piyushkumar@gmail.com
 
+## 📄 License
+This project is licensed under the MIT License.
+
 ## 🙏 Acknowledgments
 
 - **TheMealDB** for providing free food data API
