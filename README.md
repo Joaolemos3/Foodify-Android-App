@@ -13,6 +13,10 @@
   <p>Built with modern Android development practices, featuring real-time food ordering, cart management, and seamless user experience similar to Swiggy/Zomato.</p>
 </div>
 
+🔗 GitHub Repo: [Link](https://github.com/mr-piyushkr/Foodify-Android-App.git)
+
+📦 APK: [Link](https://github.com/mr-piyushkr/Foodify-Android-App/releases/tag/v1.0.0-initial-release)
+
 ---
 
 ## 📱 Screenshots
