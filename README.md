@@ -224,13 +224,6 @@ Password: 12341234
 - Some API endpoints have rate limitations
 - Maps require internet connection
 
-## 👨‍💻 Author
-
-**Piyush**
-- GitHub: [mr-piyushkr](https://github.com/mr-piyushkr)
-- LinkedIn: [Piyush Kumar](https://linkedin.com/in/piyushkumar06)
-- Email: 0602.piyushkumar@gmail.com
-
 ## 📄 License
 This project is licensed under the MIT License.
 
@@ -248,6 +241,24 @@ This project is licensed under the MIT License.
   <img src="https://img.shields.io/github/forks/mr-piyushkr/Foodify-Android-App?style=social" alt="Forks">
   <img src="https://img.shields.io/github/watchers/mr-piyushkr/Foodify-Android-App?style=social" alt="Watchers">
 </div>
+
+## 👨‍💻 Author
+
+**Piyush Kumar**  
+🚀 Android Developer 
+
+<h3 align="center">📬 Let's Connect</h3>
+
+<p align="center">
+  <a href="https://my-portfolio-umber-zeta-11.vercel.app/" target="_blank">🌐 Portfolio</a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/mr-piyushkr" target="_blank">💻 GitHub</a>
+  &nbsp;•&nbsp;
+  <a href="https://linkedin.com/in/piyushkumar06" target="_blank">💼 LinkedIn</a>
+  &nbsp;•&nbsp;
+  <a href="mailto:0602.piyushkumar@gmail.com">📧 Email</a>
+</p>
+
 
 ---
 
